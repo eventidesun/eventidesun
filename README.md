@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😊 About Me
+😄 About Me
 ---
 I'm Vaishnavi Gudimella, a Computer Science and Math student at Western University, deeply passionate about the intersection of technology, creativity, and storytelling.
 
