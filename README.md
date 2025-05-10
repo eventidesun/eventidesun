@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😊 About Me
+I'm Vaishnavi Gudimella, a Computer Science and Math student at Western University, deeply passionate about the intersection of technology, creativity, and storytelling.
+
+🕹️ Game Development & 3D Modeling
+I’m actively working on personal projects involving video game development and 3D modelling, combining my technical knowledge with a love for narrative design and immersive environments.
+
+🛠️ Technical Skills
+Languages: Python, JavaScript, C, HTML, CSS
+Frameworks & Tools: React, Node.js, Express, MongoDB, Bootstrap, Git, Unity
+Areas of Interest: Full Stack Web Development, Game Development, AI, Topology and Graphics Programming
+
+📚 Creative + Academic Projects
+
+Writing my first novel
+
+Designing a narrative-based video game
+
+Researching abstract mathematics with real-world applications in graphics and simulation
+
+🌐 Let's Connect
+I’m currently seeking internship opportunities in software engineering or game development.
+I’m also open to collaborative projects in web or game development!
+
+📲 Find me here:
+GitHub: github.com/eventidesun
+LinkedIn: linkedin.com/in/vaishnavi-gudimella
