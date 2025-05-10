@@ -25,28 +25,18 @@ I’m actively working on personal projects involving video game development and
 
 🛠️ Technical Skills
 ---
-Languages: Python, Java, JavaScript, C, C#, C++, HTML, and CSS
-
-Frameworks & Tools: React, Node.js, Express, Git, Unity, and Unreal Engine
-
-Areas of Interest: Game Development, Full Stack Web Development, AI, Machine Learning, Topology and Graphics Programming
+- Languages: Python, Java, JavaScript, C, C#, C++, HTML, and CSS
+- Frameworks & Tools: React, Node.js, Express, Git, Unity, and Unreal Engine
+- Areas of Interest: Game Development, Full Stack Web Development, AI, Machine Learning, Topology and Graphics Programming
 
 📚 Creative + Academic Projects
 ---
-Writing my first novel
-
-Designing a narrative-based video game
-
-Researching abstract mathematics with real-world applications in graphics and simulation
+- Writing my first novel
+- Designing a narrative-based video game
+- Exploring abstract mathematics for real-world applications in graphics and simulation, while also researching accessible game design for individuals with Parkinson’s and cognitive challenges.
 
 🌐 Let's Connect
 ---
-I’m currently seeking internship opportunities in software engineering or game development.
-
-I’m also open to collaborative projects in web or game development!
-
-📲 Find me here:
----
 GitHub: github.com/eventidesun
-
 LinkedIn: linkedin.com/in/vaishnavi-gudimella
+
