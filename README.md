@@ -25,11 +25,11 @@ I’m actively working on personal projects involving video game development and
 
 🛠️ Technical Skills
 ---
-Languages: Python, JavaScript, C, HTML, CSS
+Languages: Python, Java, JavaScript, C, C#, C++, HTML, and CSS
 
-Frameworks & Tools: React, Node.js, Express, MongoDB, Bootstrap, Git, Unity
+Frameworks & Tools: React, Node.js, Express, Git, Unity, and Unreal Engine
 
-Areas of Interest: Full Stack Web Development, Game Development, AI, Topology and Graphics Programming
+Areas of Interest: Game Development, Full Stack Web Development, AI, Machine Learning, Topology and Graphics Programming
 
 📚 Creative + Academic Projects
 ---
