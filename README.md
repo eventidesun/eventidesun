@@ -37,6 +37,6 @@ I’m actively working on personal projects involving video game development and
 
 🌐 Let's Connect
 ---
-GitHub: github.com/eventidesun
-LinkedIn: linkedin.com/in/vaishnavi-gudimella
+- GitHub: github.com/eventidesun
+- LinkedIn: linkedin.com/in/vaishnavi-gudimella
 
