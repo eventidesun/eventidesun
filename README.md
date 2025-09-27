@@ -36,7 +36,7 @@ Creative + Academic Projects
 - Exploring abstract mathematics for real-world applications in graphics and simulation, while also researching accessible game design for individuals with Parkinson’s and cognitive challenges.
 - Working on my first Youtube Channel on Math, Coding, and all things CS!
 
-🌐 Let's Connect
+Let's Connect
 ---
 - GitHub: github.com/eventidesun
 - LinkedIn: linkedin.com/in/vaishnavi-gudimella
