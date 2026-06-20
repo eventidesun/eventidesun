@@ -23,6 +23,5 @@ One day I want to do my PhD, become a published author, release a game I'm worki
 
 Let's Connect
 ---
-- GitHub: github.com/eventidesun
-- LinkedIn: linkedin.com/in/vaishnavi-gudimella
+GitHub: github.com/eventidesun, LinkedIn: linkedin.com/in/vaishnavi-gudimella
 
