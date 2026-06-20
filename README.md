@@ -22,6 +22,6 @@ I'm Vaishnavi Gudimella, a Computer Science student at Western University, who l
 One day I want to do my PhD, become a published author, release a game I'm working on, start a Youtube channel where I can geek out about the things I love. Maybe one day, I can write a textbook and create a new language!
 
 
-[Check out some projects I'm working on!]Github](github.com/eventidesun)
+[Check out some projects I'm working on](github.com/eventidesun)
 LinkedIn: [Let's Connect!](linkedin.com/in/vaishnavi-gudimella)
 
