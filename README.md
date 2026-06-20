@@ -23,5 +23,7 @@ One day I want to do my PhD, become a published author, release a game I'm worki
 
 
 [Check out some projects I'm working on!](github.com/eventidesun)
-LinkedIn: [Let's Connect!](linkedin.com/in/vaishnavi-gudimella)
+***
+***
+[Let's Connect!](linkedin.com/in/vaishnavi-gudimella)
 
